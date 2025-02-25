@@ -1,0 +1,13 @@
+.red{
+    color: darkgoldenrod;
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+.navbar{
+    width:100vw;
+    height: 10rem;
+    background-color: rgb(100, 100, 60);
+    display: flex; 
+}
